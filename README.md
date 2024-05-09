@@ -20,4 +20,4 @@ npm run dev
 # Prod mode
 npm run start
 ```
-If everything goes well, the server will serve the application at http://localhost:5000/
+If everything goes well, the server will serve the application at http://localhost:5000/ 
